@@ -1,0 +1,15 @@
+Daniel is a high school professor of plastic arts.
+
+He would like to have a tool that allows him to get information about the dynamics of one of his classes, based on his students' transcripts.
+
+The data that interest him most are :
+
+    The name of the student who made the best progress (note T1 <= note T2 <= note T3).
+    The names of the three students with the highest overall averages of the year.
+    The median and the quartiles [Q1, Median, Q3] of his group.
+
+The input data is the list of the students of the class, with for each the notes of the 3 quarters.
+
+Taking into account any errors (note> 20, missing data, etc.) in the data will be a plus but is not obligatory. The test data does not contain any "traps".
+
+Median resource and quartiles : https://tinyurl.com/ycw366zu

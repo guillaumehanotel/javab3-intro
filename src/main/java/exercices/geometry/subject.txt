@@ -1,0 +1,6 @@
+Code the Point class implementing the provided PointItf interface.
+Code the ColoredPoint class that implements Colored interface and extends Point class.
+
+The interfaces can be found in the "provided" class.
+
+See geometry.png for the model.
